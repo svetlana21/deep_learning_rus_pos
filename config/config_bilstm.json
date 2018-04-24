@@ -1,0 +1,36 @@
+{
+  "Classification_tasks": {
+
+    "gycrya": {
+    "Grammem_tag_Animacy": ["Animacy"],
+    "Grammem_tag_Case": ["Case"],
+    "Grammem_tag_Degree": ["Degree"],
+    "Grammem_tag_Gender": ["Gender"],
+    "Grammem_tag_Mood": ["Mood"],
+    "Grammem_tag_NumForm": ["NumForm"],
+    "Grammem_tag_Number": ["Number"],
+    "Grammem_tag_Person": ["Person"],
+    "Grammem_tag_Tense": ["Tense"],
+    "Grammem_tag_Variant": ["Variant"],
+    "Grammem_tag_VerbForm": ["VerbForm"],
+    "Grammem_tag_Voice": ["Voice"],
+    "POS": [3]
+    }
+
+  },
+
+  "Comments": ["Morpho_tag: [4]"],
+
+  "Corpora": "gycrya",
+  "Corpora_sent_limit": "False",
+  "Task_type": "POS",
+  "Sent_max_length": 110,
+
+  "Network_options": {
+    "training_epoch": 50,
+    "lstm_hidden_size": 256,
+    "dense_hidden_size": 128,
+    "batch_size": 128
+  }
+
+}
