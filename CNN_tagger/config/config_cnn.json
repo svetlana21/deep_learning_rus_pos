@@ -1,0 +1,23 @@
+{
+  "Classification_tasks": {
+
+    "UD2": {
+      "POS": [4]
+    }
+
+  },
+
+  "Corpora": "UD_Dutch",
+  "Corpora_sent_limit": "False",
+  "Task_type": "POS",
+  "Sent_max_length": "None",
+
+  "Network_options": {
+    "training_epoch": 300,
+    "batch_size_level_1": 512,
+    "batch_size_level_2": 32,
+    "prob_cnn_emb_layer_name": "dense_3"
+  }
+
+}
+

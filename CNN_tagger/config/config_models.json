@@ -1,0 +1,580 @@
+{
+  "models": {
+    "UD_Russian-SynTagRus": {
+      "XPOS": {
+        "Best restart #": "None",
+        "Best model level #": "None",
+        "acc": "None"
+      },
+      "UPOS": {
+        "Best restart #": 2,
+        "Best model level #": 2,
+        "acc": 0.984797282919
+      }
+    },
+    "UD_Slovak": {
+      "XPOS": {
+        "Best restart #": 2,
+        "Best model level #": 2,
+        "acc": 0.684832668099
+      },
+      "UPOS": {
+        "Best restart #": 0,
+        "Best model level #": 2,
+        "acc": 0.937212158428
+      }
+    },
+    "UD_Hebrew": {
+      "XPOS": {
+        "Best restart #": 2,
+        "Best model level #": 2,
+        "acc": 0.960684551341
+      },
+      "UPOS": {
+        "Best restart #": 1,
+        "Best model level #": 2,
+        "acc": 0.960750627726
+      }
+    },
+    "UD_Basque": {
+      "XPOS": {
+        "Best restart #": "None",
+        "Best model level #": "None",
+        "acc": "None"
+      },
+      "UPOS": {
+        "Best restart #": 1,
+        "Best model level #": 2,
+        "acc": 0.93940264216
+      }
+    },
+    "UD_Norwegian-Nynorsk": {
+      "XPOS": {
+        "Best restart #": "None",
+        "Best model level #": "None",
+        "acc": "None"
+      },
+      "UPOS": {
+        "Best restart #": 1,
+        "Best model level #": 2,
+        "acc": 0.96435635571
+      }
+    },
+    "UD_Latin-ITTB": {
+      "XPOS": {
+        "Best restart #": 0,
+        "Best model level #": 1,
+        "acc": 0.85654767541
+      },
+      "UPOS": {
+        "Best restart #": 0,
+        "Best model level #": 2,
+        "acc": 0.977369567276
+      }
+    },
+    "UD_Korean": {
+      "XPOS": {
+        "Best restart #": 2,
+        "Best model level #": 2,
+        "acc": 0.908932820794
+      },
+      "UPOS": {
+        "Best restart #": 2,
+        "Best model level #": 2,
+        "acc": 0.946641039722
+      }
+    },
+    "UD_Ancient_Greek-PROIEL": {
+      "XPOS": {
+        "Best restart #": 2,
+        "Best model level #": 2,
+        "acc": 0.970632417005
+      },
+      "UPOS": {
+        "Best restart #": 2,
+        "Best model level #": 2,
+        "acc": 0.965975664714
+      }
+    },
+    "UD_Swedish-LinES": {
+      "XPOS": {
+        "Best restart #": 0,
+        "Best model level #": 2,
+        "acc": 0.877902721405
+      },
+      "UPOS": {
+        "Best restart #": 0,
+        "Best model level #": 2,
+        "acc": 0.940847694457
+      }
+    },
+    "UD_Urdu": {
+      "XPOS": {
+        "Best restart #": 0,
+        "Best model level #": 2,
+        "acc": 0.90328245306
+      },
+      "UPOS": {
+        "Best restart #": 2,
+        "Best model level #": 2,
+        "acc": 0.926381196812
+      }
+    },
+    "UD_Indonesian": {
+      "XPOS": {
+        "Best restart #": "None",
+        "Best model level #": "None",
+        "acc": "None"
+      },
+      "UPOS": {
+        "Best restart #": 1,
+        "Best model level #": 2,
+        "acc": 0.931748726655
+      }
+    },
+    "UD_Greek": {
+      "XPOS": {
+        "Best restart #": 0,
+        "Best model level #": 2,
+        "acc": 0.963442717329
+      },
+      "UPOS": {
+        "Best restart #": 0,
+        "Best model level #": 2,
+        "acc": 0.9610439455
+      }
+    },
+    "UD_Persian": {
+      "XPOS": {
+        "Best restart #": 0,
+        "Best model level #": 2,
+        "acc": 0.960612827193
+      },
+      "UPOS": {
+        "Best restart #": 2,
+        "Best model level #": 2,
+        "acc": 0.961357151718
+      }
+    },
+    "UD_Latvian": {
+      "XPOS": {
+        "Best restart #": 0,
+        "Best model level #": 1,
+        "acc": 0.74021656535
+      },
+      "UPOS": {
+        "Best restart #": 2,
+        "Best model level #": 2,
+        "acc": 0.903590425532
+      }
+    },
+    "UD_Dutch-LassySmall": {
+      "XPOS": {
+        "Best restart #": "None",
+        "Best model level #": "None",
+        "acc": "None"
+      },
+      "UPOS": {
+        "Best restart #": 0,
+        "Best model level #": 2,
+        "acc": 0.972222222222
+      }
+    },
+    "UD_Japanese": {
+      "XPOS": {
+        "Best restart #": "None",
+        "Best model level #": "None",
+        "acc": "None"
+      },
+      "UPOS": {
+        "Best restart #": 2,
+        "Best model level #": 2,
+        "acc": 0.96543797067
+      }
+    },
+    "UD_Galician": {
+      "XPOS": {
+        "Best restart #": 2,
+        "Best model level #": 2,
+        "acc": 0.936966314799
+      },
+      "UPOS": {
+        "Best restart #": 2,
+        "Best model level #": 2,
+        "acc": 0.966045854905
+      }
+    },
+    "UD_Latin-PROIEL": {
+      "XPOS": {
+        "Best restart #": 2,
+        "Best model level #": 2,
+        "acc": 0.952600394997
+      },
+      "UPOS": {
+        "Best restart #": 1,
+        "Best model level #": 2,
+        "acc": 0.950543120474
+      }
+    },
+    "UD_Vietnamese": {
+      "XPOS": {
+        "Best restart #": 2,
+        "Best model level #": 2,
+        "acc": 0.842158092848
+      },
+      "UPOS": {
+        "Best restart #": 1,
+        "Best model level #": 1,
+        "acc": 0.861731493099
+      }
+    },
+    "UD_Swedish": {
+      "XPOS": {
+        "Best restart #": 0,
+        "Best model level #": 2,
+        "acc": 0.902929773765
+      },
+      "UPOS": {
+        "Best restart #": 2,
+        "Best model level #": 2,
+        "acc": 0.951955636257
+      }
+    },
+    "UD_Arabic": {
+      "XPOS": {
+        "Best restart #": 0,
+        "Best model level #": 2,
+        "acc": 0.904880478088
+      },
+      "UPOS": {
+        "Best restart #": 2,
+        "Best model level #": 2,
+        "acc": 0.955241533865
+      }
+    },
+    "UD_Old_Church_Slavonic": {
+      "XPOS": {
+        "Best restart #": 1,
+        "Best model level #": 2,
+        "acc": 0.954341541222
+      },
+      "UPOS": {
+        "Best restart #": 0,
+        "Best model level #": 2,
+        "acc": 0.947562556076
+      }
+    },
+    "UD_Spanish-AnCora": {
+      "XPOS": {
+        "Best restart #": 2,
+        "Best model level #": 2,
+        "acc": 0.981951099411
+      },
+      "UPOS": {
+        "Best restart #": 2,
+        "Best model level #": 2,
+        "acc": 0.981401867389
+      }
+    },
+    "UD_Turkish": {
+      "XPOS": {
+        "Best restart #": 1,
+        "Best model level #": 2,
+        "acc": 0.930674726989
+      },
+      "UPOS": {
+        "Best restart #": 1,
+        "Best model level #": 2,
+        "acc": 0.941400156006
+      }
+    },
+    "UD_Chinese": {
+      "XPOS": {
+        "Best restart #": 0,
+        "Best model level #": 2,
+        "acc": 0.919913419913
+      },
+      "UPOS": {
+        "Best restart #": 2,
+        "Best model level #": 2,
+        "acc": 0.921661671662
+      }
+    },
+    "UD_English-ParTUT": {
+      "XPOS": {
+        "Best restart #": 2,
+        "Best model level #": 2,
+        "acc": 0.92298362644
+      },
+      "UPOS": {
+        "Best restart #": 1,
+        "Best model level #": 2,
+        "acc": 0.931820150741
+      }
+    },
+    "UD_Czech-CLTT": {
+      "XPOS": {
+        "Best restart #": 0,
+        "Best model level #": 1,
+        "acc": 0.758646406265
+      },
+      "UPOS": {
+        "Best restart #": 1,
+        "Best model level #": 1,
+        "acc": 0.953295422765
+      }
+    },
+    "UD_Catalan": {
+      "XPOS": {
+        "Best restart #": 1,
+        "Best model level #": 2,
+        "acc": 0.980023096679
+      },
+      "UPOS": {
+        "Best restart #": 0,
+        "Best model level #": 2,
+        "acc": 0.97931640726
+      }
+    },
+    "UD_Czech-CAC": {
+      "XPOS": {
+        "Best restart #": "INPROGRESS",
+        "Best model level #": "INPROGRESS",
+        "acc": "INPROGRESS"
+      },
+      "UPOS": {
+        "Best restart #": 0,
+        "Best model level #": 2,
+        "acc": 0.985137614679
+      }
+    },
+    "UD_Romanian": {
+      "XPOS": {
+        "Best restart #": 2,
+        "Best model level #": 1,
+        "acc": 0.910193580005
+      },
+      "UPOS": {
+        "Best restart #": 0,
+        "Best model level #": 2,
+        "acc": 0.984678899083
+      }
+    },
+    "UD_Finnish-FTB": {
+      "XPOS": {
+        "Best restart #": 0,
+        "Best model level #": 1,
+        "acc": 0.891852124333
+      },
+      "UPOS": {
+        "Best restart #": 1,
+        "Best model level #": 2,
+        "acc": 0.928882349335
+      }
+    },
+    "UD_French-Sequoia": {
+      "XPOS": {
+        "Best restart #": "None",
+        "Best model level #": "None",
+        "acc": "None"
+      },
+      "UPOS": {
+        "Best restart #": 2,
+        "Best model level #": 2,
+        "acc": 0.967760617761
+      }
+    },
+    "UD_Dutch": {
+      "XPOS": {
+        "Best restart #": 2,
+        "Best model level #": 2,
+        "acc": 0.863573045447
+      },
+      "UPOS": {
+        "Best restart #": 0,
+        "Best model level #": 2,
+        "acc": 0.920424865053
+      }
+    },
+    "UD_German": {
+      "XPOS": {
+        "Best restart #": 0,
+        "Best model level #": 2,
+        "acc": 0.966136542299
+      },
+      "UPOS": {
+        "Best restart #": 0,
+        "Best model level #": 2,
+        "acc": 0.928947209288
+      }
+    },
+    "UD_Finnish": {
+      "XPOS": {
+        "Best restart #": 1,
+        "Best model level #": 2,
+        "acc": 0.965401044139
+      },
+      "UPOS": {
+        "Best restart #": 2,
+        "Best model level #": 2,
+        "acc": 0.953298528714
+      }
+    },
+    "UD_Ancient_Greek": {
+      "XPOS": {
+        "Best restart #": 0,
+        "Best model level #": 1,
+        "acc": 0.707237940741
+      },
+      "UPOS": {
+        "Best restart #": 1,
+        "Best model level #": 2,
+        "acc": 0.879383558376
+      }
+    },
+    "UD_Bulgarian": {
+      "XPOS": {
+        "Best restart #": 2,
+        "Best model level #": 1,
+        "acc": 0.931569575172
+      },
+      "UPOS": {
+        "Best restart #": 0,
+        "Best model level #": 2,
+        "acc": 0.977804629865
+      }
+    },
+    "UD_Estonian": {
+      "XPOS": {
+        "Best restart #": 0,
+        "Best model level #": 1,
+        "acc": 0.902497985496
+      },
+      "UPOS": {
+        "Best restart #": 2,
+        "Best model level #": 2,
+        "acc": 0.874375503626
+      }
+    },
+    "UD_Polish": {
+      "XPOS": {
+        "Best restart #": 0,
+        "Best model level #": 2,
+        "acc": 0.805153126719
+      },
+      "UPOS": {
+        "Best restart #": 0,
+        "Best model level #": 2,
+        "acc": 0.958830001834
+      }
+    },
+    "UD_Spanish": {
+      "XPOS": {
+        "Best restart #": "None",
+        "Best model level #": "None",
+        "acc": "None"
+      },
+      "UPOS": {
+        "Best restart #": 0,
+        "Best model level #": 2,
+        "acc": 0.960218472324
+      }
+    },
+    "UD_French": {
+      "XPOS": {
+        "Best restart #": "None",
+        "Best model level #": "None",
+        "acc": "None"
+      },
+      "UPOS": {
+        "Best restart #": 0,
+        "Best model level #": 2,
+        "acc": 0.965624393086
+      }
+    },
+    "UD_Hungarian": {
+      "XPOS": {
+        "Best restart #": "None",
+        "Best model level #": "None",
+        "acc": "None"
+      },
+      "UPOS": {
+        "Best restart #": 0,
+        "Best model level #": 1,
+        "acc": 0.889356814701
+      }
+    },
+    "UD_Croatian": {
+      "XPOS": {
+        "Best restart #": "None",
+        "Best model level #": "None",
+        "acc": "None"
+      },
+      "UPOS": {
+        "Best restart #": 2,
+        "Best model level #": 2,
+        "acc": 0.963259752041
+      }
+    },
+    "UD_Italian": {
+      "XPOS": {
+        "Best restart #": 0,
+        "Best model level #": 2,
+        "acc": 0.974984309154
+      },
+      "UPOS": {
+        "Best restart #": 2,
+        "Best model level #": 2,
+        "acc": 0.975342957052
+      }
+    },
+    "UD_Slovenian": {
+      "XPOS": {
+        "Best restart #": 1,
+        "Best model level #": 2,
+        "acc": 0.799033885061
+      },
+      "UPOS": {
+        "Best restart #": 0,
+        "Best model level #": 2,
+        "acc": 0.96895645379
+      }
+    },
+    "UD_English": {
+      "XPOS": {
+        "Best restart #": 2,
+        "Best model level #": 2,
+        "acc": 0.937920867036
+      },
+      "UPOS": {
+        "Best restart #": 0,
+        "Best model level #": 2,
+        "acc": 0.942423397219
+      }
+    },
+    "UD_Danish": {
+      "XPOS": {
+        "Best restart #": "None",
+        "Best model level #": "None",
+        "acc": "None"
+      },
+      "UPOS": {
+        "Best restart #": 0,
+        "Best model level #": 2,
+        "acc": 0.95220991719
+      }
+    },
+    "UD_Russian": {
+      "XPOS": {
+        "Best restart #": 0,
+        "Best model level #": 2,
+        "acc": 0.951766539661
+      },
+      "UPOS": {
+        "Best restart #": 1,
+        "Best model level #": 2,
+        "acc": 0.952545895393
+      }
+    }
+  }
+}
